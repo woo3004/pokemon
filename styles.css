@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    /* background-color: rgb(162, 192, 216); */
+}
+
+ol {
+    list-style: none;
+}
+
+li {
+    margin: 5px;
+}
+
+body {
+    border: 10px double #aae9a2;
+    border-radius: 10px;
+    color: #122f41;
+
+}
+
+h4 {
+    margin-bottom: 20px;
+}
+
+#pokeName {
+    background-color: white;
+}
+
+.logo {
+    padding: 30px 0 30px 0;
+}
+
+.logo img{
+    width: 60%;
+}
+
+
+#result img {
+    width: 100px;
+    margin: 10px;
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+
+.image_box {
+    margin: 5px 0 5px 0;
+    flex-wrap: wrap;
+}
+
+
+
+#result {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid RGB(72, 195, 151);
+    border-radius: 5px;
+}
+
+.list {
+    padding: 5px 0 10px;
+    
+}
+
